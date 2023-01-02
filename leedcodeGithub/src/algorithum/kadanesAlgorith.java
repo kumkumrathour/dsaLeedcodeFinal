@@ -12,6 +12,7 @@ public class kadanesAlgorith {
         if(st>='A'&&st<='Z'){
          System.out.println("the the value is 1");
         }
+        
         else{
           System.out.println("the the value is -1");
         }

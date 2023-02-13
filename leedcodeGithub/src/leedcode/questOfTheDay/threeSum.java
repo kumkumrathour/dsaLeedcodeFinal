@@ -1,4 +1,4 @@
-package leedcode;
+package leedcode.questOfTheDay;
 import java.util.Scanner;
 public class threeSum {
     public static void main(String[] args){

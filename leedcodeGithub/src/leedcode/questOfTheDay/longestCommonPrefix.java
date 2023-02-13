@@ -1,4 +1,4 @@
-package leedcode;
+package leedcode.questOfTheDay;
 
 public class longestCommonPrefix {
     // StringBuilder s= new StringBuilder();

@@ -1,4 +1,4 @@
-package leedcode;
+package leedcode.questOfTheDay;
 import java.util.Scanner;
 public class isomatric_string {
     // public boolean solution(String s1 , String s2){

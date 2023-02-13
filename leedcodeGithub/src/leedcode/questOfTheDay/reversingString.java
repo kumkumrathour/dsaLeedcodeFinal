@@ -1,4 +1,4 @@
-package leedcode;
+package leedcode.questOfTheDay;
 
 public class reversingString {
     public static void main(String[] args){

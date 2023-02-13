@@ -1,3 +1,4 @@
+package leedcode.questOfTheDay;
 // package leedcode;
 // import java.util.*;
 // public class removeDigit2259 {

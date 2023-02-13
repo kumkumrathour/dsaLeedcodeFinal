@@ -1,4 +1,4 @@
-package leedcode;
+package leedcode.questOfTheDay;
 import java.util.*;
 
 

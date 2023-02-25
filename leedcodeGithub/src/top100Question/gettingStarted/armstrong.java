@@ -1,4 +1,4 @@
-package top100Question;
+package top100Question.gettingStarted;
 import java.util.*;
 public class armstrong {
     public static void main(String[] args){

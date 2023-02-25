@@ -1,4 +1,4 @@
-package top100Question;
+package top100Question.gettingStarted;
 import java.util.*;
 public class automorphicNo {
     public static void main(String[] args){

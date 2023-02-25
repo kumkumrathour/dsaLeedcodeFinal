@@ -1,4 +1,4 @@
-package top100Question;
+package top100Question.gettingStarted;
 import java.util.Scanner;
 public class greatestOfTwo {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package top100Question;
+package top100Question.gettingStarted;
 import java.util.*;
 public class powerOfNum {
     public static void main(String[] args){

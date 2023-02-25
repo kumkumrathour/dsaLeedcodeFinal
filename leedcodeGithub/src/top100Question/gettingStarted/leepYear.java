@@ -1,4 +1,4 @@
-package top100Question;
+package top100Question.gettingStarted;
 import java.util.*;
 import java.util.Scanner;
 public class leepYear {

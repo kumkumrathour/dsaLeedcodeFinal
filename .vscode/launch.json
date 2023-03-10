@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "subSetOfArray",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.subSetOfArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "allPermutation",
             "request": "launch",
             "mainClass": "top100Question.gettingStarted.String.allPermutation",

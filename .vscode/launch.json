@@ -1,0 +1,1225 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "digitalToy",
+            "request": "launch",
+            "mainClass": "tcsDigital.digitalToy",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "digitalchocolateQues",
+            "request": "launch",
+            "mainClass": "tcsDigital.digitalchocolateQues",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "simple",
+            "request": "launch",
+            "mainClass": "tcsDigital.simple",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "replaceByItsRanking",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.replaceByItsRanking",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sortAnArrayAnotherArray",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.sortAnArrayAnotherArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "multi5Table",
+            "request": "launch",
+            "mainClass": "JavaUdemy.multi5Table",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit",
+            "request": "launch",
+            "mainClass": "JavaUdemy.sumOfDigit",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumUsingRecursion",
+            "request": "launch",
+            "mainClass": "JavaUdemy.sumUsingRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "Linklist",
+            "request": "launch",
+            "mainClass": "Topic.string.collectionFrameWork.Linklist",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "listInterface",
+            "request": "launch",
+            "mainClass": "Topic.string.collectionFrameWork.listInterface",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "stack",
+            "request": "launch",
+            "mainClass": "Topic.string.collectionFrameWork.stack",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "treeSet",
+            "request": "launch",
+            "mainClass": "Topic.string.collectionFrameWork.treeSet",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "pallindrom",
+            "request": "launch",
+            "mainClass": "Topic.string.pallindrom",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "removeDupilcate",
+            "request": "launch",
+            "mainClass": "Topic.string.removeDupilcate",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseBinarySearch",
+            "request": "launch",
+            "mainClass": "Topic.string.reverseBinarySearch",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "Topic.string.string",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "algorithum.binarySearch",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "kadanesAlgorith",
+            "request": "launch",
+            "mainClass": "algorithum.kadanesAlgorith",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "complexNumber",
+            "request": "launch",
+            "mainClass": "codeNinja.complexNumber",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseTheArray",
+            "request": "launch",
+            "mainClass": "codeNinja.reverseTheArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "rorateArray",
+            "request": "launch",
+            "mainClass": "codeNinja.rorateArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "kthvalue",
+            "request": "launch",
+            "mainClass": "companyComming.kthvalue",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "alternativeSumLC",
+            "request": "launch",
+            "mainClass": "contest.alternativeSumLC",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "max_min_replace",
+            "request": "launch",
+            "mainClass": "contest.max_min_replace",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "decBinaryUsRecursion",
+            "request": "launch",
+            "mainClass": "dsaCourse.decBinaryUsRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "gcdUsingRecursion",
+            "request": "launch",
+            "mainClass": "dsaCourse.gcdUsingRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "powerUsingRecursion",
+            "request": "launch",
+            "mainClass": "dsaCourse.powerUsingRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "dsaCourse.recursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigitRecursion",
+            "request": "launch",
+            "mainClass": "dsaCourse.sumOfDigitRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "anagram",
+            "request": "launch",
+            "mainClass": "gfg.anagram",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "InputInJava",
+            "request": "launch",
+            "mainClass": "hakerRank.InputInJava",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "arraySumFunc",
+            "request": "launch",
+            "mainClass": "hakerRank.arraySumFunc",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "compareTheTriples",
+            "request": "launch",
+            "mainClass": "hakerRank.compareTheTriples",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "doubleInput",
+            "request": "launch",
+            "mainClass": "hakerRank.doubleInput",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "functionSum",
+            "request": "launch",
+            "mainClass": "hakerRank.functionSum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "largSum",
+            "request": "launch",
+            "mainClass": "hakerRank.largSum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "numberOfJump",
+            "request": "launch",
+            "mainClass": "hakerRank.numberOfJump",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "palindromOn",
+            "request": "launch",
+            "mainClass": "hakerRank.palindromOn",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "stringNumber0",
+            "request": "launch",
+            "mainClass": "hakerRank.stringNumber0",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "Binar704LCrecursion",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.Binar704LCrecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "armStrongRecur",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.armStrongRecur",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "arrayListEx",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.arrayListEx",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "duplicateNum",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.duplicateNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "findPrineNoRec",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.findPrineNoRec",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "lengthOfString",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.lengthOfString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "multOfTwoDArray",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.multOfTwoDArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "productOfTwoRec",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.productOfTwoRec",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "recursionBubbleSort",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.recursionBubbleSort",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigitRec",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.sumOfDigitRec",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "upperCase",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.upperCase",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "waveTraversal",
+            "request": "launch",
+            "mainClass": "kunalDSA.array.waveTraversal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "searchString",
+            "request": "launch",
+            "mainClass": "kunalDSA.linearSearch.searchString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "searchingInArray",
+            "request": "launch",
+            "mainClass": "kunalDSA.linearSearch.searchingInArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "defineTwoDeArray",
+            "request": "launch",
+            "mainClass": "kunalDSA.linkList.defineTwoDeArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "introLinklist",
+            "request": "launch",
+            "mainClass": "kunalDSA.linkList.introLinklist",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "maxVal",
+            "request": "launch",
+            "mainClass": "kunalDSA.linkList.maxVal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "kunalDSA.linkList.reverseArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "twoDiArraColNotFix",
+            "request": "launch",
+            "mainClass": "kunalDSA.linkList.twoDiArraColNotFix",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "introOfRecursion",
+            "request": "launch",
+            "mainClass": "kunalDSA.recursionByKunal.introOfRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countDistintctNo",
+            "request": "launch",
+            "mainClass": "leedcode.leetcodeContest.countDistintctNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countThedigit2520",
+            "request": "launch",
+            "mainClass": "leedcode.leetcodeContest.countThedigit2520",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfEleDigit",
+            "request": "launch",
+            "mainClass": "leedcode.leetcodeContest.sumOfEleDigit",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.Fibonacci",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "addOneInNumber",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.addOneInNumber",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "bestTimeBuySale",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.bestTimeBuySale",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci_recursion",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.fibonacci_recursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "firstAndPast34",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.firstAndPast34",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "lastWordLength",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.lastWordLength",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "multipleElement",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.multipleElement",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reversingString",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.reversingString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "targetValueThreePoint",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.targetValueThreePoint",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "threeSum",
+            "request": "launch",
+            "mainClass": "leedcode.questOfTheDay.threeSum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "prog",
+            "request": "launch",
+            "mainClass": "prog",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "MaxSquareOne",
+            "request": "launch",
+            "mainClass": "tcsDigital.MaxSquareOne",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "cloudHoping",
+            "request": "launch",
+            "mainClass": "tcsDigital.cloudHoping",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countTheDivisor",
+            "request": "launch",
+            "mainClass": "tcsDigital.countTheDivisor",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "digonalSum",
+            "request": "launch",
+            "mainClass": "tcsDigital.digonalSum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "commanInBothRep",
+            "request": "launch",
+            "mainClass": "tcsDigital.hashmap.commanInBothRep",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "getCommonElem",
+            "request": "launch",
+            "mainClass": "tcsDigital.hashmap.getCommonElem",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "longestConsecutive",
+            "request": "launch",
+            "mainClass": "tcsDigital.hashmap.longestConsecutive",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "maximumFreq",
+            "request": "launch",
+            "mainClass": "tcsDigital.hashmap.maximumFreq",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "secondLargestEle",
+            "request": "launch",
+            "mainClass": "tcsDigital.hashmap.stack.secondLargestEle",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "understandingHM",
+            "request": "launch",
+            "mainClass": "tcsDigital.hashmap.understandingHM",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "hikeTheValley",
+            "request": "launch",
+            "mainClass": "tcsDigital.hikeTheValley",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "rockRange",
+            "request": "launch",
+            "mainClass": "tcsDigital.rockRange",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "rotatingArray",
+            "request": "launch",
+            "mainClass": "tcsDigital.rotatingArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "secondMostChar",
+            "request": "launch",
+            "mainClass": "tcsDigital.secondMostChar",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "solveAnEqua",
+            "request": "launch",
+            "mainClass": "tcsDigital.solveAnEqua",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "solveTheEquation",
+            "request": "launch",
+            "mainClass": "tcsDigital.solveTheEquation",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "threeWords",
+            "request": "launch",
+            "mainClass": "tcsDigital.threeWords",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "vanDiagram",
+            "request": "launch",
+            "mainClass": "tcsDigital.vanDiagram",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "PosOrNeg",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.PosOrNeg",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "ToFindStrongNum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.ToFindStrongNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "aNumberIsPrime",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.aNumberIsPrime",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "abundantNo",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.abundantNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "aramStrongRange",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.aramStrongRange",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.armstrong",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "arr2IsSubsetOfarr1",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.arr2IsSubsetOfarr1",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "arrayDisjoint",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.arrayDisjoint",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countDistrinctElem",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.countDistrinctElem",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countNumEvenOdd",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.countNumEvenOdd",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "frequencyOfElement",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.frequencyOfElement",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "halfRota",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.halfRota",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "largestElement",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.largestElement",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "longestPalindrom",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.longestPalindrom",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "maxSumSubArray",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.maxSumSubArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "maximumProduct",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.maximumProduct",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "maximumScore",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.maximumScore",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "mimimumProduct",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.mimimumProduct",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicate",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.removeDuplicate",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "repeatingElement",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.repeatingElement",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseAnArray",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.reverseAnArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "secondSmall",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.secondSmall",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sortArray",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.sortArray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sortByItsFreq",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.sortByItsFreq",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sortElementIncresing",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.sortElementIncresing",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sortingElem",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.sortingElem",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfAll",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.sumOfAll",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "symmetric2Darraypair",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.symmetric2Darraypair",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "tomakeAllElemEqual",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.arrayImportCode.tomakeAllElemEqual",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "automorphicNo",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.automorphicNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "evenOddNo",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.evenOddNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "factorOfNum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.factorOfNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "factorialOfANum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.factorialOfANum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.fibonacci",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "greaterOdThree",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.greaterOdThree",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "greatestOfTwo",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.greatestOfTwo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "harsadNo",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.harsadNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "leepYear",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.leepYear",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "palindrom",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.palindrom",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "perfectNoOrNot",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.perfectNoOrNot",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "powerOfNum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.powerOfNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "primeNoBestAppr",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.primeNoBestAppr",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "primeNoInRange",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.primeNoInRange",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "hcfUsingrec",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.hcfUsingrec",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "largestElemInArra",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.largestElemInArra",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "lcm",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.lcm",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "lengthOfString(1)",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.lengthOfString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "permutationString",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.permutationString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "powerOfNum(1)",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.powerOfNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "prime_num",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.prime_num",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseANum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.recursion.reverseANum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseOfNumber",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.reverseOfNumber",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumInRange",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.sumInRange",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfDigit(1)",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.sumOfDigit",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumOfNo",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.sumOfNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sumUsingRecursion(1)",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.sumUsingRecursion",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "addFraction",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.addFraction",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "binaryToDecimal",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.binaryToDecimal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "binaryToOctal",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.binaryToOctal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "bonaryToOctal",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.bonaryToOctal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countDayOfMonth",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.countDayOfMonth",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "decimalToBinary",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.decimalToBinary",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "decimalToHexa",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.decimalToHexa",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "decimalToOct",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.decimalToOct",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "decodingANumber",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.decodingANumber",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "devisorOfNum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.devisorOfNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "findPrime1to100",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.findPrime1to100",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "findQudrant",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.findQudrant",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "findRootOfEqu",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.findRootOfEqu",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.gcd",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "handShake",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.handShake",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "hcf",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.hcf",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "hexaToDec",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.hexaToDec",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "lcm(1)",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.lcm",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "nisSumOfTwoPrime",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.nisSumOfTwoPrime",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "noOfDigit",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.noOfDigit",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "occurrenceOfNum",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.occurrenceOfNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "octalToBinar",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.octalToBinar",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "octalToDecimal",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.octalToDecimal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "permutationOfSeat",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.permutationOfSeat",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "replace0with1",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.workingWithNumber.replace0with1",
+            "projectName": "leedcodeGithub_7345641"
+        }
+    ]
+}

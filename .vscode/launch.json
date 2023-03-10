@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "allPermutation",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.allPermutation",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "replaceword",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.replaceword",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "replaceSubString",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.replaceSubString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "firstAndLastCap",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.firstAndLastCap",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "replaceAll",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.replaceAll",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "removeSpaces",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.removeSpaces",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "removeAllChar",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.removeAllChar",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "reverseTheString",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.reverseTheString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "palindrom",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.palindrom",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "removeVoeal",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.removeVoeal",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "convertUppertoLower",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.convertUppertoLower",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "findLengthOfString",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.findLengthOfString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "findtheValueASC",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.findtheValueASC",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "alphabet",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.alphabet",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "vowelOrConsonant",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.String.vowelOrConsonant",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "digitalToy",
             "request": "launch",
             "mainClass": "tcsDigital.digitalToy",

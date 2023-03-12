@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "waterTrap",
+            "request": "launch",
+            "mainClass": "tcsDigital.waterTrap",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "strangeNum",
+            "request": "launch",
+            "mainClass": "tcsDigital.strangeNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "primeNo",
+            "request": "launch",
+            "mainClass": "tcsDigital.primeNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "kthMaxMin",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.advanceArray.kthMaxMin",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "sort012",
+            "request": "launch",
+            "mainClass": "top100Question.gettingStarted.advanceArray.sort012",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "subSetOfArray",
             "request": "launch",
             "mainClass": "top100Question.gettingStarted.String.subSetOfArray",

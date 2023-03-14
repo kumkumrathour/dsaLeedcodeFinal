@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "splitPalindrom",
+            "request": "launch",
+            "mainClass": "tcsDigital.previousYear.splitPalindrom",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "countNonRepeatedNo",
+            "request": "launch",
+            "mainClass": "tcsDigital.previousYear.countNonRepeatedNo",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "cyclicallyRotate",
+            "request": "launch",
+            "mainClass": "tcsDigital.previousYear.cyclicallyRotate",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "waterTrap",
             "request": "launch",
             "mainClass": "tcsDigital.waterTrap",

@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "keyBoardAndKey",
+            "request": "launch",
+            "mainClass": "tcsDigital.keyBoardAndKey",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "mouseANdCat",
+            "request": "launch",
+            "mainClass": "tcsDigital.mouseANdCat",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "digit",
+            "request": "launch",
+            "mainClass": "tcsDigital.digit",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "splitPalindrom",
             "request": "launch",
             "mainClass": "tcsDigital.previousYear.splitPalindrom",

@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "stringLength",
+            "request": "launch",
+            "mainClass": "tcsDigital.stringLength",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "substringSpecial",
+            "request": "launch",
+            "mainClass": "tcsDigital.substringSpecial",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "kthSmallestandLargest",
+            "request": "launch",
+            "mainClass": "tcsDigital.kthSmallestandLargest",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "hcfandPrimeFac",
+            "request": "launch",
+            "mainClass": "tcsDigital.hcfandPrimeFac",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "maxMinValueSum",
+            "request": "launch",
+            "mainClass": "tcsDigital.maxMinValueSum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "happyNum",
+            "request": "launch",
+            "mainClass": "tcsDigital.happyNum",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "pairsocks",
+            "request": "launch",
+            "mainClass": "tcsDigital.pairsocks",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "valley",
+            "request": "launch",
+            "mainClass": "tcsDigital.valley",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "candleBlown",
+            "request": "launch",
+            "mainClass": "tcsDigital.candleBlown",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "keyBoardAndKey",
             "request": "launch",
             "mainClass": "tcsDigital.keyBoardAndKey",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "intToString",
+            "request": "launch",
+            "mainClass": "tcsDigital.intToString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "bitOperation",
             "request": "launch",
             "mainClass": "tcsDigital.bitOperation",

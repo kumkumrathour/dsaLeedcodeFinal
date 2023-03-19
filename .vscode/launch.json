@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "bitOperation",
+            "request": "launch",
+            "mainClass": "tcsDigital.bitOperation",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "zeroOneSide",
             "request": "launch",
             "mainClass": "tcsDigital.zeroOneSide",

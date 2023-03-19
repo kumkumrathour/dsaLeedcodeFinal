@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "zeroOneSide",
+            "request": "launch",
+            "mainClass": "tcsDigital.zeroOneSide",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "stringLength",
             "request": "launch",
             "mainClass": "tcsDigital.stringLength",

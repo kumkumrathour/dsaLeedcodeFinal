@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "gcdOfThree",
+            "request": "launch",
+            "mainClass": "tcsDigital.gcdOfThree",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "secondLargestRepetesionIsAllow",
+            "request": "launch",
+            "mainClass": "tcsDigital.secondLargestRepetesionIsAllow",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
+            "name": "primeNumberInRange",
+            "request": "launch",
+            "mainClass": "tcsDigital.primeNumberInRange",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "readFromAFile",
             "request": "launch",
             "mainClass": "tcsDigital.readFromAFile",

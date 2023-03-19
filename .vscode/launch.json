@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "readFromAFile",
+            "request": "launch",
+            "mainClass": "tcsDigital.readFromAFile",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "intToString",
             "request": "launch",
             "mainClass": "tcsDigital.intToString",

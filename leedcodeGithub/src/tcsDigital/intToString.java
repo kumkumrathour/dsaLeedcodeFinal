@@ -6,6 +6,8 @@ public class intToString {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         String s= Integer.toString(n);
+        // String  st = Integer.valueOf(s);
         System.out.println(s);
+
     }
 }

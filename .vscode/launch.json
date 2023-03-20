@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseAString",
+            "request": "launch",
+            "mainClass": "tcsDigital.reverseAString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "gcdOfThree",
             "request": "launch",
             "mainClass": "tcsDigital.gcdOfThree",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "reverseEachWord",
+            "request": "launch",
+            "mainClass": "tcsDigital.reverseEachWord",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "reverseAString",
             "request": "launch",
             "mainClass": "tcsDigital.reverseAString",

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "primeNoOrNot",
+            "request": "launch",
+            "mainClass": "tcsDigital.primeNoOrNot",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "reverseEachWord",
             "request": "launch",
             "mainClass": "tcsDigital.reverseEachWord",

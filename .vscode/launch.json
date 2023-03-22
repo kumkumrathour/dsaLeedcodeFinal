@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "twoString",
+            "request": "launch",
+            "mainClass": "tcsDigital.twoString",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "arrangeTheLetter",
             "request": "launch",
             "mainClass": "tcsDigital.arrangeTheLetter",

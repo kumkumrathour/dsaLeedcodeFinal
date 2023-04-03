@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sort123Inarray",
+            "request": "launch",
+            "mainClass": "sort123Inarray",
+            "projectName": "leedcodeGithub_7345641"
+        },
+        {
+            "type": "java",
             "name": "sumOfTwoPrimeNum",
             "request": "launch",
             "mainClass": "top100Question.gettingStarted.sumOfTwoPrimeNum",
